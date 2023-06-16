@@ -7,7 +7,7 @@
 
 - 🔭 I’m working on **expanding my portfolio of data-oriented projects.**
 
-- 📚 I’m studying at **the University of Chicago, majoring in Applied Data Science.**
+- 📚 I’m pursuing an **MS in Applied Data Science at the Univeristy of Chicago.**
 
 - 🤝 I’m looking to **collaborate on open-source projects and contribute to the creation of exsiting technologies.**
 
