@@ -1,4 +1,6 @@
-[![MasterHead](https://media3.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif?cid=ecf05e47ofbtvun2a6oqpd1tnxxzfl3z0y8a3kiupr93z9y0&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://rishavchanda.io)
+<p align="center">
+  <img src="https://media3.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif?cid=ecf05e47ofbtvun2a6oqpd1tnxxzfl3z0y8a3kiupr93z9y0&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead" width="100%">
+</p>
 
 <h1 align="center">Hi, I'm Danil👋</h1>
 <h3 align="center">Dedicated student in the ever-evolving realm of data.</h3>
