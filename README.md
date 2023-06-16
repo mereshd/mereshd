@@ -1,13 +1,13 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://media3.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif?cid=ecf05e47ofbtvun2a6oqpd1tnxxzfl3z0y8a3kiupr93z9y0&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead" width="100%">
-</p>
+</p> -->
 
 <h1 align="center">Hi, I'm Danil👋</h1>
 <h3 align="center">Dedicated student in the ever-evolving realm of data.</h3>
 
-- 🔭 I’m working on **expanding out my portfolio of data-oriented projects.**
+- 🔭 I’m working on **expanding my portfolio of data-oriented projects.**
 
-- 📚 I’m a studying at **the University of Chicago, majoring in Applied Data Science**
+- 📚 I’m a studying at **the University of Chicago, majoring in Applied Data Science.**
 
 - 🤝 I’m looking to **collaborate on open-source projects and contribute to the creation of exsiting technologies.**
 
