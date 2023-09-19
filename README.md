@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
 <h3 align="center">Dedicated student in the ever-evolving realm of data.</h3>
 
-- 🔭 I’m working on **expanding out my portfolio of data-oriented projects.**
+- 🔭 I’m working on **expanding out my portfolio of data-oriented projects**
 
 - 📚 I’m studying at **the University of Chicago, majoring in Applied Data Science**
 
-- 🤝 I’m looking to **collaborate on open-source projects and contribute to the creation of exciting technologies.**
+- 🤝 I’m looking to **collaborate on open-source projects and contribute to the creation of exciting technologies**
 
 - 📫 How to reach me: **danilm@uchicago.edu**
 
