@@ -72,10 +72,10 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="googlecloud logo"  />
   <img width="12" />
-  <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-6CF?logo=apachehadoop&logoColor=fff&style=flat-square" height="30" />
+  <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-6CF?logo=apachehadoop&logoColor=white&style=for-the-badge" height="30" />
   <img width="12" />
-  <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=fff&style=flat-square" height="30" />
+  <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge" height="30" />
   <img width="12" />
-  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=flat-squar" height="30" />
+  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white&style=for-the-badge" height="30" />
   
 </div>
