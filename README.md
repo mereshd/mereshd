@@ -13,11 +13,6 @@
 
 - 📫 How to reach me: **danilm@uchicago.edu**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dmeresenschi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dmeresenschi/" height="30" width="30" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
@@ -49,5 +44,9 @@
 <img src="https://img.shields.io/badge/Hadoop-6CF?logo=apachehadoop&logoColor=white&style=for-the-badge" height="30" alt="Hadoop logo" />
 <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge" height="30" alt="PySpark logo" />
 <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white&style=for-the-badge" height="30" alt="Airflow logo" />
-  
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dmeresenschi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dmeresenschi/" height="30" width="30" /></a>
+</p>
