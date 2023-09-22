@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="30" alt="r logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="30" alt="java logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="30" alt="microsoftsqlserver logo"  />
   <img width="12" />
@@ -34,7 +34,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white&style=for-the-badge" height="30" alt="neo4j logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge" height="30" alt="powershell logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo" />
   <img width="12" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" height = "30"/>
   <img width="12" />
