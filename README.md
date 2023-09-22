@@ -34,9 +34,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white&style=for-the-badge" height="30" alt="neo4j logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge" height="30" alt="powershell logo" />
-  <img width="12" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge" height="30" alt="powershell logo" />
   <img width="12" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" height = "30"/>
   <img width="12" />
