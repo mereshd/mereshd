@@ -9,7 +9,7 @@
 
 - 📚 I’m a graduate student **in the MS in Applied Data Science program at the University of Chicago**
 
-- 🤝 I’m **eager to partner on open-source endeavors and drive innovative tech solutions forward**
+- 🤝 I’m eager to **collaborate on open-source projects and contribute to the creation of exciting solutions**
 
 - 📫 Contact me at: **danilm@uchicago.edu**
 
