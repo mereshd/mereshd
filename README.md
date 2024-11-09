@@ -5,13 +5,15 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
 <h3 align="center">Dedicated student in the ever-evolving realm of data.</h3>
 
+- 🏢 I’m **currently a Data Engineer at a Private Equity fund in NYC**
+
 - 🔭 I’m **actively broadening my data-centric project portfolio**
 
-- 📚 I’m a graduate student **in the MS in Applied Data Science program at the University of Chicago**
+- 📚 I’m a graduate student **from the MS in Applied Data Science program at the University of Chicago**
 
 - 🤝 I’m eager to **collaborate on open-source initiatives and contribute to the creation of exciting solutions**
 
-- 📫 Contact me at: **danilm@uchicago.edu**
+- 📫 Contact me at: **danimarhanskii@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
